@@ -1,0 +1,5 @@
+Credentials cache: API:B7BB41F4-80CA-4683-89B6-C16CA2CC0C14
+        Principal: vazra@42.FR
+
+  Issued                Expires               Principal
+Sep  7 15:01:36 2020  Sep 14 15:01:11 2020  krbtgt/42.FR@42.FR
